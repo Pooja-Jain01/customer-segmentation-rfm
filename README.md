@@ -23,3 +23,11 @@ RFM modelling and cohort retention analysis.
 - **65% customer churn** at Month 1 post first purchase
 - **Month 11 retention spike** (49.5%) = Christmas seasonality effect
 - **UK = 82.98%** of total revenue — high geographic concentration risk
+
+## Excel Deliverable
+`customer_segmentation_analysis.xlsx` contains 5 sheets:
+- **Cohort Heatmap** — monthly retention % with conditional color scale
+- **rfm** — segment summary with revenue contribution
+- **country** — geographic revenue distribution
+- **RFM Details** — all 5,891 customers with scores and segments
+- **Summary** — key findings and project overview
