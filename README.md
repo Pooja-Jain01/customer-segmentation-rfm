@@ -4,7 +4,7 @@
 End-to-end customer analytics project on 1M+ e-commerce transactions using RFM modelling, cohort retention analysis, and ML-based churn prediction.
 
 **Tools:** PostgreSQL, Microsoft Excel, Python (scikit-learn, pandas)  
-**Dataset:** UCI Online Retail II — 1,067,371 raw transactions  
+**Dataset:** UCI Online Retail II - 1,067,371 raw transactions  
 **Techniques:** Window functions, PERCENT_RANK, DATE_TRUNC, Cohort Analysis, Logistic Regression
 
 ## Project Steps
